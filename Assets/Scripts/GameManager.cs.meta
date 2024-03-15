@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a7c47761acd39af42a2f9a357314a88f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lineManager: {instanceID: 0}
+  - houses: {instanceID: 0}
+  - utils: {instanceID: 0}
+  - HUD: {instanceID: 0}
+  - levelFinish: {instanceID: 0}
+  - skyboxMat: {fileID: 2100000, guid: 86e9d2152235189439faa4a564f9af3b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
